@@ -96,10 +96,13 @@
         #service .box{
             width: 260px;
             height: 270px;
-            float: left;
+            /*float: left;*/
             overflow: hidden;
+            margin: auto;
+            /*
             margin-left: 15px;
             margin-right: 15px;
+            */
             border-radius: 50%;
             border: 5px solid #fff;
             box-shadow: 1px 1px 5px #000;
